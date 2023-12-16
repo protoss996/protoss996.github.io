@@ -33,10 +33,6 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
-      - name: Set Timezone
-        run: |
-          sudo timedatectl set-timezone Asia/Taipei
-          timedatectl
   deploy:
     needs: build
     permissions:
