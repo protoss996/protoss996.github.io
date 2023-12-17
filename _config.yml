@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: protoss996
 language: zh-TW
 timezone: 'Asia/Taipei'
 
@@ -97,7 +97,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ### theme: landscape
-theme: shoka
+theme: melody
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
