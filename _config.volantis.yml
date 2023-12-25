@@ -153,6 +153,9 @@ navbar:
     - name: 关于
       icon: fa-solid fa-info-circle
       url: about/
+    - name: 黑夜 
+      icon: fa-solid fa-moon 
+      toggle: darkmode
   search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
