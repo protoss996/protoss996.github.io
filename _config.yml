@@ -5,7 +5,7 @@
 # Site
 title: Hexo
 subtitle: ''
-description: ''
+description: '未配置描述沒差吧'
 keywords:
 author: protoss996
 language: en
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: volantis
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
